@@ -1,0 +1,27 @@
+body {
+	background-image: url(http://www.psdgraphics.com/file/colorful-triangles-background.jpg);
+	justify-content: center;
+	text-align: center;
+}
+h1 {
+	font-family: 'Federo', sans-serif;
+	color: orange; 
+	text-shadow: 2px 2px 4px #000;
+}
+h2,h3 {
+	color: white;
+	font-family: 'Federo'
+}
+.grow:hover 
+{
+	-webkit-transform: scale(1.3);
+	-ms-transform: scale(1.3);
+	transform: scale(1.3);
+}
+.arrow {
+	display: flex;
+	flex-wrap: wrap;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 
+}
